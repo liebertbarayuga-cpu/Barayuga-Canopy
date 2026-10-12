@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Canopy</string>
+    <string name="title_activity_main">Leanback MainActivity</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="title_activity_main2">Leanback MainActivity2</string>
+    <string name="title_activity_main3">Leanback MainActivity3</string>
+
+    <!-- Canopy layout strings -->
+    <string name="canopy_title">Canopy</string>
+    <string name="canopy_logo_desc">Canopy</string>
+    <string name="search_icon">🔍</string>
+    <string name="good_morning_grace">Good morning, Grace</string>
+    <string name="greeting_format">Good morning, %1$s</string>
+    <string name="hero_subtitle">Find rest, roots, and community today</string>
+    <string name="start_devotion">Start Devotion</string>
+    <string name="filter_all">All</string>
+    <string name="filter_devotions">Devotions</string>
+    <string name="filter_events">Events</string>
+    <string name="filter_giving">Giving</string>
+    <string name="this_week">This Week</string>
+    <string name="nothing_scheduled">Nothing scheduled here this week.</string>
+    <string name="event_worship_time">SUN · 9:00 AM</string>
+    <string name="event_worship_title">Morning Worship</string>
+    <string name="event_worship_location">Main Hall</string>
+    <string name="event_youth_time">WED · 6:30 PM</string>
+    <string name="event_youth_title">Youth Night</string>
+    <string name="event_youth_location">Fellowship Room</string>
+    <string name="event_prayer_time">FRI · 7:00 PM</string>
+    <string name="event_prayer_title">Prayer Night</string>
+    <string name="event_prayer_location">Chapel</string>
+    <string name="quick_links">Quick Links</string>
+    <string name="icon_prayer">🙏</string>
+    <string name="prayer_requests">Prayer Requests</string>
+    <string name="prayer_requests_sub">Share or lift up a request</string>
+    <string name="arrow_right">›</string>
+    <string name="arrow_next">➔</string>
+    <string name="icon_groups">🌿</string>
+    <string name="small_groups">Small Groups</string>
+    <string name="small_groups_sub">Find a group near you</string>
+    <string name="icon_volunteer">🙌</string>
+    <string name="volunteer">Volunteer</string>
+    <string name="volunteer_sub">Sign up to serve this month</string>
+    <string name="icon_give">❤️</string>
+    <string name="give_online">Give Online</string>
+    <string name="give_online_sub">Support the mission</string>
+    <string name="nav_home">🏠 Home</string>
+    <string name="icon_calendar">📅</string>
+    <string name="icon_profile">👤</string>
+
+    <!-- Auth strings -->
+    <string name="login_welcome_title">Welcome Back</string>
+    <string name="login_welcome_subtitle">Sign in to continue your journey</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="hint_full_name">Enter your full name</string>
+    <string name="label_email">Email Address</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="label_password">Password</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="label_confirm_password">Confirm Password</string>
+    <string name="hint_confirm_password">Re-enter your password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="prompt_register">Don\'t have an account? Register here</string>
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Join the Canopy community today</string>
+    <string name="btn_register">Register Account</string>
+    <string name="prompt_login">Already have an account? Sign In</string>
+    <string name="logout">Logout</string>
+    <string name="logout_icon">🚪</string>
+    <string name="btn_logout_label">Logout 🚪</string>
+    <string name="logout_confirm_title">Logout</string>
+    <string name="logout_confirm_msg">Are you sure you want to log out of Canopy?</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Legal Policies & Compliance -->
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="privacy_policy_text">CANOPY PRIVACY POLICY\n\nEffective Date: October 2026\n\n1. DATA COLLECTION\nWe collect your name and email address when you register an account. We also process prayer requests and volunteer sign-ups submitted voluntarily.\n\n2. DATA STORAGE &amp; SECURITY\nYour session data is stored securely using Android local storage protocols. We do not sell, rent, or trade your personal data to third parties.\n\n3. YOUR RIGHTS\nYou have the right to access, rectify, or request deletion of your personal data at any time through the app settings or by contacting privacy@canopyapp.org.\n\n4. COOKIES &amp; LOCAL STORAGE\nWe use Android SharedPreferences locally on your device to maintain your login session and application preferences. No third-party tracking cookies or ad trackers are used.\n\n5. CONTACT US\nFor privacy inquiries, contact us at privacy@canopyapp.org.</string>
+
+    <string name="terms_title">Terms and Conditions</string>
+    <string name="terms_text">CANOPY TERMS &amp; CONDITIONS\n\n1. ACCEPTANCE OF TERMS\nBy accessing or using the Canopy app, you agree to comply with and be bound by these Terms and Conditions.\n\n2. COMMUNITY CONDUCT\nYou agree to use community features (such as prayer requests and small group signups) respectfully. Harassment, hate speech, or inappropriate content is strictly prohibited.\n\n3. DISCLAIMER OF WARRANTIES\nCanopy is provided \"as is\" without warranty of any kind. We do not guarantee uninterrupted or error-free operation.\n\n4. INTELLECTUAL PROPERTY\nAll content, logos, and materials are owned by Canopy Community Organization.</string>
+
+    <string name="refund_policy_title">Refund &amp; Giving Policy</string>
+    <string name="refund_policy_text">REFUND &amp; GIVING POLICY\n\n1. VOLUNTARY CONTRIBUTIONS\nAll online gifts, tithes, and offerings made through Canopy are voluntary contributions to support community programs.\n\n2. REFUND ELIGIBILITY\nIf a transaction error or duplicate payment occurs, please submit a refund request within 30 days to support@canopyapp.org with your transaction details.\n\n3. TAX DEDUCTIBILITY\nContributions may be tax-deductible under applicable local tax laws for registered non-profit organizations.</string>
+
+    <string name="cookie_policy_title">Cookie &amp; Local Data Policy</string>
+    <string name="cookie_policy_text">COOKIE &amp; LOCAL DATA POLICY\n\nCanopy uses essential local storage (Android SharedPreferences) solely to save your authentication session and UI preferences locally on your device. We do not use third-party tracking cookies, advertising beacons, or analytics trackers.</string>
+
+    <string name="consent_terms_privacy">I agree to the Terms of Service &amp; Privacy Policy</string>
+    <string name="consent_required_error">You must accept the Terms and Privacy Policy to register.</string>
+    <string name="legal_policies">Legal &amp; Privacy Policies</string>
+    <string name="business_info_title">Organization Info</string>
+    <string name="business_info_text">Canopy Community Organization\nContact: support@canopyapp.org\nPrivacy: privacy@canopyapp.org</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="icon_eye_show">👁️</string>
+    <string name="icon_eye_hide">🙈</string>
+</resources>

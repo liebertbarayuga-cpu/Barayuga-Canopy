@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743015220855",
+    "project_id": "barayuga-990de",
+    "storage_bucket": "barayuga-990de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743015220855:android:55639c58e8bb204d652872",
+        "android_client_info": {
+          "package_name": "com.example.barayuga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx2ZSyI1Job7zs_uKCvFg2lYAj0Ey_h90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
